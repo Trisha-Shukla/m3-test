@@ -1,2 +1,2 @@
-#First heading
+# First heading
 ## Second heading
